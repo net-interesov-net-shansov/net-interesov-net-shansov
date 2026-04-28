@@ -74,16 +74,6 @@
 [![Figma Mobile](https://img.shields.io/badge/Figma_Mobile-0d1318?style=flat-square&logo=figma&logoColor=00f5e4)](https://www.figma.com/proto/qMTIBcnY0vPjzrWYr3BTo0/Stay-Active?node-id=823-764&starting-point-node-id=823%3A764&t=FaCzcBPceGdIZDOz-1)
 [![Figma Desktop](https://img.shields.io/badge/Figma_Desktop-0d1318?style=flat-square&logo=figma&logoColor=00f5e4)](https://www.figma.com/proto/qMTIBcnY0vPjzrWYr3BTo0/Stay-Active?node-id=583-194&starting-point-node-id=583%3A194&t=MtCPoVSEk7aNg4Xb-1)
 
----
-
-### `[03]` GITHUB STATS
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=net-interesov-net-shansov&show_icons=true&theme=transparent&bg_color=080c0f&title_color=00f5e4&text_color=c8dde8&icon_color=ff6b1a&border_color=1a2a35&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/net-interesov-net-shansov)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=net-interesov-net-shansov&layout=compact&theme=transparent&bg_color=080c0f&title_color=00f5e4&text_color=c8dde8&border_color=1a2a35)](https://github.com/net-interesov-net-shansov)
-
 </div>
 
 ---
